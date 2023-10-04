@@ -1,0 +1,53 @@
+@media(max-width:700px) {
+    body{ background:rgb(171, 149, 223) ;
+    
+    }
+   .poema{
+    display: flex;
+    text-align: center;
+   }
+  
+   .textos{
+    text-align: center;
+}
+
+.texto1{
+    text-align: center; 
+
+}
+
+.imagem{
+    text-align: center;
+    width: 283px;
+
+
+}
+
+
+    }
+    
+    @media(min-width:700px) {
+        body{ background:rgb(0, 217, 255) ;
+    
+    
+        }
+        
+    
+        .imagem{
+            display: flex;
+            width: 283px;
+        
+    
+        }
+    
+        .textos{
+            display: flex;
+        }
+    
+        .texto1{
+            display: flex;
+            
+        }
+
+        
+    }
